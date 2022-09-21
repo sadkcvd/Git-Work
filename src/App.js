@@ -5,7 +5,9 @@ import ChangeColor from './components/ChangeColor'
 function App() {
   return (
     <div className="App">
-      Git Work
+      <div className='header'>
+        <h1>GİTWORK</h1>
+      </div>
       <Counter/>
       <ChangeColor/>
     </div>
