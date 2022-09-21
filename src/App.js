@@ -20,8 +20,12 @@ function App() {
       <div className='header'>
         <h1>GİTWORK</h1>
       </div>
-      <Counter/>
-      <ChangeColor/>
+
+      <div className='counter'>
+        <button onClick={increaseCounter}>+</button>
+        <h1>{counter}</h1>
+        <button onClick={decreaseCounter}>-</button>
+      </div>
     </div>
   );
 }
