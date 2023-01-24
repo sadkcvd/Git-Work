@@ -1,6 +1,6 @@
-Git Work - Branch Control 
+# Git Work - Branch Control 
 
-Basic Examples 
+# Basic Examples 
 
 * Main : Default 
 * Branch-1 : Increase-Decrease,
